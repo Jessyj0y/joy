@@ -1,2 +1,2 @@
 # joy
-responsive personal portfolio | joy 
+I'm data scientist and full stack developer 
